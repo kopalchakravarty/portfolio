@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
   font-family: 'Catamaran';
-  font-weight: 200 !important;
+  font-weight: 400 !important;
 }
 
 .btn-xl {
@@ -72,11 +72,11 @@ header.masthead .masthead-content {
 }
 
 header.masthead .masthead-content .masthead-heading {
-  font-size: 0.5rem;
+  font-size: 1rem;
 }
 
 header.masthead .masthead-content .masthead-subheading {
-  font-size: 0.25rem;
+  font-size: 0.75rem;
 }
 
 header.masthead .bg-circle {
@@ -121,10 +121,10 @@ header.masthead .bg-circle-4 {
     padding-bottom: 7rem;
   }
   header.masthead .masthead-content .masthead-heading {
-    font-size: 0.5rem;
+    font-size: 1rem;
   }
   header.masthead .masthead-content .masthead-subheading {
-    font-size: 0.5rem;
+    font-size: 0.75rem;
   }
 }
 
