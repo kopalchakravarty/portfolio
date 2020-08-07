@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
   font-family: 'Catamaran';
-  font-weight: 400 !important;
+  font-weight: 600 !important;
 }
 
 #links a:hover { color:#006080; background-color:#002233; }
@@ -74,11 +74,11 @@ header.masthead .masthead-content {
 }
 
 header.masthead .masthead-content .masthead-heading {
-  font-size: 1rem;
+  font-size: 3rem;
 }
 
 header.masthead .masthead-content .masthead-subheading {
-  font-size: 0.75rem;
+  font-size: 2rem;
 }
 
 header.masthead .bg-circle {
