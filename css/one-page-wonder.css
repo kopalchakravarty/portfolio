@@ -18,7 +18,11 @@ h6 {
   font-weight: 700 !important;
 }
 
-#links a:hover { color:#000000; background-color:#000000; }
+#links a:link {
+  color: #000000;
+  background-color: transparent;
+  text-decoration: none;
+}
 
 .btn-xl {
   text-transform: uppercase;
