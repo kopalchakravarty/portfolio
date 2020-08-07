@@ -18,6 +18,8 @@ h6 {
   font-weight: 400 !important;
 }
 
+#links a:hover { color:#006080; background-color:#002233; }
+
 .btn-xl {
   text-transform: uppercase;
   padding: 1.5rem 3rem;
@@ -121,10 +123,10 @@ header.masthead .bg-circle-4 {
     padding-bottom: 7rem;
   }
   header.masthead .masthead-content .masthead-heading {
-    font-size: 1rem;
+    font-size: 4rem;
   }
   header.masthead .masthead-content .masthead-subheading {
-    font-size: 0.75rem;
+    font-size: 3rem;
   }
 }
 
