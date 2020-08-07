@@ -15,10 +15,10 @@ h4,
 h5,
 h6 {
   font-family: 'Catamaran';
-  font-weight: 600 !important;
+  font-weight: 700 !important;
 }
 
-#links a:hover { color:#006080; background-color:#002233; }
+#links a:hover { color:#000000; background-color:#000000; }
 
 .btn-xl {
   text-transform: uppercase;
@@ -85,7 +85,7 @@ header.masthead .bg-circle {
   z-index: 0;
   position: absolute;
   border-radius: 100%;
-  background: linear-gradient(0deg, #006080 0%, #008060 100%) !important;
+  background: linear-gradient(0deg, #006080 0%, #002233 100%) !important;
   /*background: linear-gradient(0deg, #ee0979 0%, #ff6a00 100%)*/
 }
 
